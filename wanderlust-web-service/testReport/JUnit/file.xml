@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0180" tests="51" failures="0">
+  <testsuite name="" timestamp="2021-04-27T16:07:27" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite.Test Suite for booking" timestamp="2021-04-27T16:07:27" tests="8" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\book.spec.js" time="0.0030" failures="0">
+    <testcase name="Test case to check Number of travellers" time="0.0010" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check Number of travellers" time="0.0000" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check number of travellers " time="0.0010" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check number of travellers " time="0.0000" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check Number of travellers" time="0.0000" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check Number of travellers" time="0.0010" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check number of travellers " time="0.0000" classname="Test Suite for booking">
+    </testcase>
+    <testcase name="Test case to check number of travellers " time="0.0000" classname="Test Suite for booking">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.checking booking with correct user" timestamp="2021-04-27T16:07:27" tests="13" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\book.spec.js" time="0.0130" failures="0">
+    <testcase name="getting user id and booking id" time="0.0120" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="getting user id and booking id" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for destination name" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for destination name" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="get data by destination id" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="get data by destination id" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for availability" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for checkin and checkout date of given userid" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for checkin and checkout date of given userid is not available" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for given user id  booking id is not available" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for destination is not available" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for destination is not available" time="0.0010" classname="checking booking with correct user">
+    </testcase>
+    <testcase name="check for booking" time="0.0000" classname="checking booking with correct user">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.Test Suite for connection" timestamp="2021-04-27T16:07:27" tests="2" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\connections.spec.js" time="0.0000" failures="0">
+    <testcase name="connection check for user collection" time="0.0000" classname="Test Suite for connection">
+    </testcase>
+    <testcase name="connection check for user collection" time="0.0000" classname="Test Suite for connection">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.Test Suite for Login" timestamp="2021-04-27T16:07:27" tests="7" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\login.spec.js" time="0.0010" failures="0">
+    <testcase name="Test case to check name property" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check type of name property" time="0.0010" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check value of password property" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check validity of password" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check validity of number" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check value of password property" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+    <testcase name="Test case to check validity of password" time="0.0000" classname="Test Suite for Login">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.checking for user availability" timestamp="2021-04-27T16:07:27" tests="6" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\login.spec.js" time="0.0000" failures="0">
+    <testcase name="user status" time="0.0000" classname="checking for user availability">
+    </testcase>
+    <testcase name="user available for entered contact no" time="0.0000" classname="checking for user availability">
+    </testcase>
+    <testcase name="check for password " time="0.0000" classname="checking for user availability">
+    </testcase>
+    <testcase name="check for password " time="0.0000" classname="checking for user availability">
+    </testcase>
+    <testcase name="check for password " time="0.0000" classname="checking for user availability">
+    </testcase>
+    <testcase name="check for password " time="0.0000" classname="checking for user availability">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.checking for user availability.checking for service user " timestamp="2021-04-27T16:07:27" tests="3" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\login.spec.js" time="0.0000" failures="0">
+    <testcase name="user status" time="0.0000" classname="checking for user availability.checking for service user ">
+    </testcase>
+    <testcase name="user status" time="0.0000" classname="checking for user availability.checking for service user ">
+    </testcase>
+    <testcase name="user status" time="0.0000" classname="checking for user availability.checking for service user ">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.Test Suite for Register" timestamp="2021-04-27T16:07:27" tests="10" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\register.spec.js" time="0.0010" failures="0">
+    <testcase name="Test case to check if name is not null" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check name property" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to match name format" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check password format" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check email format" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check contact number property" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check contact number format" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check if email is not null" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check if password is not null" time="0.0000" classname="Test Suite for Register">
+    </testcase>
+    <testcase name="Test case to check if Contact Number is not null" time="0.0010" classname="Test Suite for Register">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite.Test Suite for setupUser" timestamp="2021-04-27T16:07:27" tests="2" file="C:\Users\arkadyuti.ghatak\Documents\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\test\setupUser.spec.js" time="0.0000" failures="0">
+    <testcase name="db setup is successful" time="0.0000" classname="Test Suite for setupUser">
+    </testcase>
+    <testcase name="db setup is not successful" time="0.0000" classname="Test Suite for setupUser">
+    </testcase>
+  </testsuite>
+</testsuites>
